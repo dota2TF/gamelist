@@ -10,7 +10,7 @@
         "id": "100",
         "packageName": "com.iggame.zombiedefense.towerdefense.backpackshooting",
         "gameName": "Zombie Defense",
-        "description": "木筏自動塔防遊戲，擴展格子、部署士兵並抵禦不斷增強的殭屍潮。",
+        "description": "Build your raft, deploy heroes, and survive zombie waves in tower defense.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_100_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.zombiedefense.towerdefense.backpackshooting"
       },
@@ -26,7 +26,7 @@
         "id": "102",
         "packageName": "com.ig.PopStar",
         "gameName": "PopStar Star Crush Puzzle",
-        "description": "連接相鄰星星進行消除，包含升級、皮膚和離線玩法。",
+        "description": "Classic connect star puzzle game with upgrades, skins and offline play.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_102_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.ig.PopStar"
       },
@@ -34,7 +34,7 @@
         "id": "103",
         "packageName": "com.iggame.apocalypse.gunevolution",
         "gameName": "Doom:Gun Evolution",
-        "description": "末日掛機射擊遊戲，自動攻擊怪物，升級並進化槍械，挑戰區域首領。",
+        "description": "Apocalypse! Slay mutants, upgrade guns offline, rule wasteland with firepower",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_103_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.apocalypse.gunevolution"
       },
@@ -42,7 +42,7 @@
         "id": "104",
         "packageName": "com.iggame.soccer.battle1v1",
         "gameName": "Soccer Battle 1v1",
-        "description": "快節奏1對1足球競技，控制角色踢球、鏟球、射門並釋放技能。",
+        "description": "Fast 1v1 soccer battles with heroes, skills and crazy goals.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_104_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.soccer.battle1v1"
       },
@@ -58,7 +58,7 @@
         "id": "106",
         "packageName": "com.zjgame.blockpuzzle",
         "gameName": "Block Puzzle GG",
-        "description": "類似俄羅斯方塊的方塊消除遊戲，通過擺放和連接方塊完成消除。",
+        "description": "Clear blocks, challenge friends in Block Puzzle GG!",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_106_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.zjgame.blockpuzzle"
       },
@@ -66,7 +66,7 @@
         "id": "107",
         "packageName": "com.game.tank.mow.tower",
         "gameName": "Blast Tanks: Tank Warfare",
-        "description": "駕駛坦克消滅大量怪物，通過寶箱獲得裝備並強化坦克火力。",
+        "description": "This is an exciting shooting game that combines tank battles",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_107_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.game.tank.mow.tower"
       },
@@ -74,7 +74,7 @@
         "id": "108",
         "packageName": "com.game.ball.endless",
         "gameName": "endless ball",
-        "description": "控制小球不斷跳上升高的平台，躲避障礙並挑戰更高分數。",
+        "description": "man, go to the 1000th floor!",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_108_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.game.ball.endless"
       },
@@ -98,7 +98,7 @@
         "id": "111",
         "packageName": "com.snake.game.pinball",
         "gameName": "pinball machine",
-        "description": "彈珠機模擬遊戲，提供多種彈珠機和不同機關玩法。",
+        "description": "Pinball machine simulator, there are a variety of pinball modes to play.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_111_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.snake.game.pinball"
       },
@@ -106,10 +106,43 @@
         "id": "112",
         "packageName": "com.indiegame.gun.fire",
         "gameName": "fire gun hero",
-        "description": "益智射擊遊戲，利用直射、反彈和爆炸連鎖消滅敵人、營救人質。",
+        "description": "Wanna be a hero to start a legend?",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_112_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.indiegame.gun.fire"
+      },
+      {
+        "id": "113",
+        "packageName": "com.game.io.snake.king",
+        "gameName": "snake.io customized",
+        "description": "Snake IO: build, eat, evolve, and battle worldwide.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_113_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.io.snake.king"
+      },
+      {
+        "id": "114",
+        "packageName": "com.iggame.jumpball",
+        "gameName": "Pull Marble Pinball Game",
+        "description": "Bounce Marbles: Classic Pinball Game Fun!",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_114_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.jumpball"
+      },
+      {
+        "id": "115",
+        "packageName": "com.iggame.combinefruit",
+        "gameName": "Synthetic watermelon 2024",
+        "description": "When two identical fruits come together, a high-level fruit will be synthesized.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_115_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.combinefruit"
+      },
+      {
+        "id": "116",
+        "packageName": "com.game.snake.io",
+        "gameName": "Fish.io Battle",
+        "description": "Join the fish war and win!",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_116_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.snake.io"
       }
+      
     ]
   }
 }
