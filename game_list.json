@@ -8,7 +8,7 @@
     "items": [
       {
         "id": "117",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.monkeyking.backpackbattle",
         "gameName": "Monkey King: 6x6 Merge",
         "description": "Plan your backpack, merge number tiles, and lead Monkey King into auto battles.",
@@ -17,7 +17,7 @@
       },
       {
         "id": "118",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.zombie.backpack.defense",
         "gameName": "Zombie Arsenal: Horde Defense",
         "description": "Evolve your arsenal and hold the last wall against relentless zombie waves.",
@@ -26,7 +26,7 @@
       },
       {
         "id": "100",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.zombiedefense.towerdefense.backpackshooting",
         "gameName": "Zombie Defense",
         "description": "Build your raft, deploy heroes, and survive zombie waves in tower defense.",
@@ -35,7 +35,7 @@
       },
       {
         "id": "114",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.jumpball",
         "gameName": "Pull Pinball",
         "description": "Bounce Marbles: Classic Pinball Game Fun!",
@@ -44,7 +44,7 @@
       },
       {
         "id": "113",
-        "level": 2,
+        "level": 1,
         "packageName": "com.game.io.snake.king",
         "gameName": "snake.io customized",
         "description": "Snake IO: build, eat, evolve, and battle worldwide",
@@ -53,7 +53,7 @@
       },
       {
         "id": "101",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.chuanqi",
         "gameName": "文字傳奇",
         "description": "純文字傳奇單機遊戲，包含戰法道職業、打怪爆裝、Boss和離線掛機。",
@@ -62,7 +62,7 @@
       },
       {
         "id": "102",
-        "level": 2,
+        "level": 1,
         "packageName": "com.ig.PopStar",
         "gameName": "PopStar Star Crush Puzzle",
         "description": "Classic connect star puzzle game with upgrades, skins and offline play.",
