@@ -8,7 +8,7 @@
     "items": [
       {
         "id": "117",
-        "level": 1,
+        "level": 2,
         "packageName": "com.iggame.monkeyking.backpackbattle",
         "gameName": "Monkey King: 6x6 Merge",
         "description": "Plan your backpack, merge number tiles, and lead Monkey King into auto battles.",
@@ -17,7 +17,7 @@
       },
       {
         "id": "118",
-        "level": 1,
+        "level": 2,
         "packageName": "com.iggame.zombie.backpack.defense",
         "gameName": "Zombie Arsenal: Horde Defense",
         "description": "Evolve your arsenal and hold the last wall against relentless zombie waves.",
