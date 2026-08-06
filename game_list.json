@@ -15,6 +15,14 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.monkeyking.backpackbattle"
       },
       {
+        "id": "118",
+        "packageName": "com.iggame.zombie.backpack.defense",
+        "gameName": "Zombie Arsenal: Horde Defense",
+        "description": "Evolve your arsenal and hold the last wall against relentless zombie waves.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_118_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.zombie.backpack.defense"
+      },
+      {
         "id": "100",
         "packageName": "com.iggame.zombiedefense.towerdefense.backpackshooting",
         "gameName": "Zombie Defense",
