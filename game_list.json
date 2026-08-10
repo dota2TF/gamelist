@@ -142,15 +142,6 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.game.frog.puzzle"
       },
       {
-        "id": "110",
-        "level": 2,
-        "packageName": "com.game.io.snake.legends",
-        "gameName": "貪吃蛇io－2048",
-        "description": "融合貪吃蛇、IO競技、2048合成和水果玩法，並支持自定義蛇的外觀。",
-        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_110_v1.png",
-        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.io.snake.legends"
-      },
-      {
         "id": "111",
         "level": 2,
         "packageName": "com.snake.game.pinball",
