@@ -142,6 +142,15 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.game.frog.puzzle"
       },
       {
+        "id": "110",
+        "level": 2,
+        "packageName": "com.game.io.snake.legends",
+        "gameName": "Snake 2048: Merge & Grow",
+        "description": "Snake arena with skills, skins, rankings, and 2048-style numbered bodies.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_110_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.io.snake.legends"
+      },
+      {
         "id": "111",
         "level": 2,
         "packageName": "com.snake.game.pinball",
