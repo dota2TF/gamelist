@@ -43,6 +43,15 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.jumpball"
       },
       {
+        "id": "101",
+        "level": 1,
+        "packageName": "com.iggame.chuanqi",
+        "gameName": "文字傳奇",
+        "description": "純文字傳奇單機遊戲，包含戰法道職業、打怪爆裝、Boss和離線掛機。",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_101_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.chuanqi"
+      },
+      {
         "id": "113",
         "level": 2,
         "packageName": "com.game.io.snake.king",
