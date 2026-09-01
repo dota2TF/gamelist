@@ -7,6 +7,15 @@
   "data": {
     "items": [
       {
+        "id": "119",
+        "level": 1,
+        "packageName": "com.iggame.textlegend.chuanqi",
+        "gameName": "文字傳奇",
+        "description": "純文字傳奇單機遊戲，包含戰法道職業、打怪爆裝、Boss和離線掛機。",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_119_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.textlegend.chuanqi"
+      },
+      {
         "id": "117",
         "level": 1,
         "packageName": "com.iggame.monkeyking.backpackbattle",
