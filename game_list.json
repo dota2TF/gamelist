@@ -7,6 +7,15 @@
   "data": {
     "items": [
       {
+        "id": "120",
+        "level": 1,
+        "packageName": "com.iggame.bubble.shooter.pop",
+        "gameName": "Bubble Shooter",
+        "description": "Play this offline bubble shooter with colorblind mode. Aim, match and pop!",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_120_v1.jpg",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.bubble.shooter.pop"
+      },
+      {
         "id": "119",
         "level": 1,
         "packageName": "com.iggame.textlegend.chuanqi",
