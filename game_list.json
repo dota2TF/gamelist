@@ -7,13 +7,13 @@
   "data": {
     "items": [
       {
-        "id": "120",
+        "id": "121",
         "level": 1,
-        "packageName": "com.iggame.bubble.shooter.pop",
-        "gameName": "Bubble Shooter",
-        "description": "Play this offline bubble shooter with colorblind mode. Aim, match and pop!",
-        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_120_v1.jpg",
-        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.bubble.shooter.pop"
+        "packageName": "com.iggame.applesnake.puzzle",
+        "gameName": "Apple Snake",
+        "description": "Eat apples and plan your escape. Offline snake puzzles in 18 languages.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_121_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.applesnake.puzzle"
       },
       {
         "id": "119",
@@ -23,6 +23,15 @@
         "description": "純文字傳奇單機遊戲，包含戰法道職業、打怪爆裝、Boss和離線掛機。",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_119_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.textlegend.chuanqi"
+      },
+      {
+        "id": "120",
+        "level": 1,
+        "packageName": "com.iggame.bubble.shooter.pop",
+        "gameName": "Bubble Shooter",
+        "description": "Play this offline bubble shooter with colorblind mode. Aim, match and pop!",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_120_v1.jpg",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.bubble.shooter.pop"
       },
       {
         "id": "117",
