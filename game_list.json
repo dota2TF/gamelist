@@ -9,8 +9,8 @@
       {
         "id": "122",
         "level": 1,
-        "packageName": "com.iggame.applesnake.puzzle",
-        "gameName": "com.iggame.mergeguns.zombiedefense",
+        "packageName": "com.iggame.mergeguns.zombiedefense",
+        "gameName": "Merge Guns: Zombie Defense",
         "description": "Merge guns and defend your base in a zombie tower defense game.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_122_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.mergeguns.zombiedefense"
