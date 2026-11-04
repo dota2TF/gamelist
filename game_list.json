@@ -79,15 +79,6 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.jumpball"
       },
       {
-        "id": "113",
-        "level": 2,
-        "packageName": "com.game.io.snake.king",
-        "gameName": "snake.io customized",
-        "description": "Snake IO: build, eat, evolve, and battle worldwide",
-        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_113_v1.png",
-        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.io.snake.king"
-      },
-      {
         "id": "102",
         "level": 1,
         "packageName": "com.ig.PopStar",
@@ -107,12 +98,21 @@
       },
       {
         "id": "122",
-        "level": 2,
+        "level": 1,
         "packageName": "com.iggame.mergeguns.zombiedefense",
         "gameName": "Merge Guns: Zombie Defense",
         "description": "Merge guns and defend your base in a zombie tower defense game.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_122_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.mergeguns.zombiedefense"
+      },
+      {
+        "id": "113",
+        "level": 2,
+        "packageName": "com.game.io.snake.king",
+        "gameName": "snake.io customized",
+        "description": "Snake IO: build, eat, evolve, and battle worldwide",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_113_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.game.io.snake.king"
       },
       {
         "id": "104",
