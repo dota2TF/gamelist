@@ -7,13 +7,13 @@
   "data": {
     "items": [
       {
-        "id": "122",
+        "id": "125",
         "level": 1,
-        "packageName": "com.iggame.mergeguns.zombiedefense",
-        "gameName": "Merge Guns: Zombie Defense",
-        "description": "Merge guns and defend your base in a zombie tower defense game.",
-        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_122_v1.png",
-        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.mergeguns.zombiedefense"
+        "packageName": "com.iggame.mergeguns.towerdefense",
+        "gameName": "Merge Turrets: Tower Defense",
+        "description": "Merge turrets, build your defense, and hold off enemy waves and bosses.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_125_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.mergeguns.towerdefense"
       },
       {
         "id": "121",
@@ -104,6 +104,15 @@
         "description": "Upgrade guns, fight mutants, and earn rewards offline in this idle RPG.",
         "imageUrl": "https://dota2tf.github.io/gamelist/images/game_103_v1.png",
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.apocalypse.gunevolution"
+      },
+      {
+        "id": "122",
+        "level": 2,
+        "packageName": "com.iggame.mergeguns.zombiedefense",
+        "gameName": "Merge Guns: Zombie Defense",
+        "description": "Merge guns and defend your base in a zombie tower defense game.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_122_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.mergeguns.zombiedefense"
       },
       {
         "id": "104",
