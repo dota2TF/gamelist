@@ -17,6 +17,8 @@
 *.apk
 build/
 local/
+local-preview.html
+local-preview.html
 GitHubPages游戏列表配置-需求文档.md
 *.apk
 *.zip
