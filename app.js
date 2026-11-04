@@ -140,6 +140,7 @@ function createGameCard(game, index) {
   const gameUrl = getSafeHttpsUrl(game.gameUrl);
 
   card.dataset.gameId = game.id.trim();
+  card.classList.toggle("game-card--compact", game.level === 2);
   number.textContent = String(index + 1).padStart(2, "0");
   title.textContent = gameName;
   description.textContent = game.description?.trim() || "更多遊戲資訊即將公開。";
@@ -235,7 +236,9 @@ async function loadGameList() {
     }
 
     const config = validateConfig(await response.json());
-    allGames = config.data.items;
+    allGames = config.data.items.toSorted(
+      (first, second) => Number(first.level === 2) - Number(second.level === 2),
+    );
 
     elements.gameCount.textContent = String(allGames.length).padStart(2, "0");
     elements.configVersion.textContent = config.configVersion || "未標示";
