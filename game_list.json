@@ -34,6 +34,15 @@
         "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.applesnake.puzzle"
       },
       {
+        "id": "124",
+        "level": 1,
+        "packageName": "com.iggame.goodssort.clearshelves",
+        "gameName": "Goods Sort: Clear the Shelves",
+        "description": "Sort goods, match 3 on a shelf, and clear every layer before time runs out.",
+        "imageUrl": "https://dota2tf.github.io/gamelist/images/game_124_v1.png",
+        "gameUrl": "https://play.google.com/store/apps/details?id=com.iggame.goodssort.clearshelves"
+      },
+      {
         "id": "119",
         "level": 1,
         "packageName": "com.iggame.textlegend.chuanqi",
